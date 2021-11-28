@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://ybrc.github.io/self/</id>
-    <title>Gridea</title>
-    <updated>2021-11-28T07:32:32.557Z</updated>
+    <title>Mr·Yang</title>
+    <updated>2021-11-28T07:34:00.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://ybrc.github.io/self/"/>
     <link rel="self" href="https://https://ybrc.github.io/self/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://https://ybrc.github.io/self/images/avatar.png</logo>
     <icon>https://https://ybrc.github.io/self/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Mr·Yang</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://https://ybrc.github.io/self/post/hello-gridea/</id>
