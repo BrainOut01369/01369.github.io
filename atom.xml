@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://ybrc.github.io/self/</id>
+    <id>https://https://ybrc.github.io/note</id>
     <title>Mr·Yang</title>
-    <updated>2021-11-28T07:36:47.163Z</updated>
+    <updated>2021-11-28T07:39:55.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://ybrc.github.io/self/"/>
-    <link rel="self" href="https://https://ybrc.github.io/self/atom.xml"/>
+    <link rel="alternate" href="https://https://ybrc.github.io/note"/>
+    <link rel="self" href="https://https://ybrc.github.io/note/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://ybrc.github.io/self/images/avatar.png</logo>
-    <icon>https://https://ybrc.github.io/self/favicon.ico</icon>
+    <logo>https://https://ybrc.github.io/note/images/avatar.png</logo>
+    <icon>https://https://ybrc.github.io/note/favicon.ico</icon>
     <rights>All rights reserved 2021, Mr·Yang</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://ybrc.github.io/self/post/hello-gridea/</id>
-        <link href="https://https://ybrc.github.io/self/post/hello-gridea/">
+        <id>https://https://ybrc.github.io/note/post/hello-gridea/</id>
+        <link href="https://https://ybrc.github.io/note/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
